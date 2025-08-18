@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Avinash Narwariya  
 
-<!--
-**avinash-1707/avinash-1707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer | 🚀 MERN + Next.js | 🤖 AI Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚒️ Tech Stack  
+- **Languages & Frameworks:** TypeScript, JavaScript, Node.js, Express.js, React, Next.js  
+- **Databases & ORMs:** PostgreSQL, MongoDB, Prisma  
+- **Styling & UI:** Tailwind CSS, ShadCN UI  
+- **Tools & Platforms:** Docker, Cloudinary, NextAuth, Redis  
+
+---
+
+### 📊 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=avinash-1707&show_icons=true&theme=tokyonight)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avinash-1707&layout=compact&theme=tokyonight)  
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=avinash-1707&theme=tokyonight)  
+
+---
