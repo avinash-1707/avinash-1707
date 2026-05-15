@@ -76,16 +76,6 @@ const avinash = {
 
 ---
 
-## \$ cat philosophy.txt
-
-> *"I didn't wait for permission to learn agentic AI. I just built agents until they worked reliably."*
->
-> No CS degree. Just curiosity, shipping things, and learning from failures.
-> 
-> Agents that think, plan, and act. Not chatbots. Not retrieval. Real autonomy.
-
----
-
 ## \$ curl https://avnsh.xyz
 
 <div align="center">
