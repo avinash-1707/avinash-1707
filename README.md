@@ -86,10 +86,11 @@ const avinash = {
 
 ---
 
-## \$ curl https://avinash.dev/connect
+## \$ curl https://avnsh.xyz
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-22C55E?style=flat-square&logo=globe&logoColor=white)](https://avnsh.xyz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/avinash-narwariya)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/avinash-1707)
 [![Twitter / X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ayyvinash)
