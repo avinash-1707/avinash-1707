@@ -11,9 +11,7 @@ ai      ⟫ llm orchestration · rag · agents
 ```
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/DuckOfDisorder/BlobCats/main/GIFs%20and%20APNGs/GIFs/A_BlobCat_CozyWave.gif" width="42" height="42" alt="cat" />
 <img src="https://raw.githubusercontent.com/DuckOfDisorder/BlobCats/main/GIFs%20and%20APNGs/GIFs/A_BlobCat_Code.gif" width="42" height="42" alt="cat" />
-<img src="https://raw.githubusercontent.com/DuckOfDisorder/BlobCats/main/GIFs%20and%20APNGs/GIFs/A_BlobCat_Coffee.gif" width="42" height="42" alt="cat" />
 <img src="https://raw.githubusercontent.com/DuckOfDisorder/BlobCats/main/GIFs%20and%20APNGs/GIFs/A_BlobCat_Dancing.gif" width="42" height="42" alt="cat" />
 <img src="https://raw.githubusercontent.com/DuckOfDisorder/BlobCats/main/GIFs%20and%20APNGs/GIFs/A_BlobCat_Bongo.gif" width="42" height="42" alt="cat" />
 <img src="https://raw.githubusercontent.com/DuckOfDisorder/BlobCats/main/GIFs%20and%20APNGs/GIFs/A_BlobCat_Bounce.gif" width="42" height="42" alt="cat" />
