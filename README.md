@@ -17,12 +17,10 @@ ai      ⟫ llm orchestration · rag · agents
 <img src="https://raw.githubusercontent.com/DuckOfDisorder/BlobCats/main/GIFs%20and%20APNGs/GIFs/A_BlobCat_Bounce.gif" width="42" height="42" alt="cat" />
 <img src="https://raw.githubusercontent.com/DuckOfDisorder/BlobCats/main/GIFs%20and%20APNGs/GIFs/A_BlobCat_Dab.gif" width="42" height="42" alt="cat" />
 <img src="https://raw.githubusercontent.com/DuckOfDisorder/BlobCats/main/GIFs%20and%20APNGs/GIFs/A_BlobCat_DealWithIt.gif" width="42" height="42" alt="cat" />
-<img src="https://raw.githubusercontent.com/DuckOfDisorder/BlobCats/main/GIFs%20and%20APNGs/GIFs/A_BlobCat_Enjoy.gif" width="42" height="42" alt="cat" />
 <img src="https://raw.githubusercontent.com/DuckOfDisorder/BlobCats/main/GIFs%20and%20APNGs/GIFs/A_BlobCat_Wave.gif" width="42" height="42" alt="cat" />
 <img src="https://raw.githubusercontent.com/DuckOfDisorder/BlobCats/main/GIFs%20and%20APNGs/GIFs/A_BlobCat_Heart.gif" width="42" height="42" alt="cat" />
 <img src="https://raw.githubusercontent.com/DuckOfDisorder/BlobCats/main/GIFs%20and%20APNGs/GIFs/A_BlobCat_Spin.gif" width="42" height="42" alt="cat" />
 <img src="https://raw.githubusercontent.com/DuckOfDisorder/BlobCats/main/GIFs%20and%20APNGs/GIFs/A_BlobCat_Party.gif" width="42" height="42" alt="cat" />
-<img src="https://raw.githubusercontent.com/DuckOfDisorder/BlobCats/main/GIFs%20and%20APNGs/GIFs/A_BlobCat_Peek.gif" width="42" height="42" alt="cat" />
 <img src="https://raw.githubusercontent.com/DuckOfDisorder/BlobCats/main/GIFs%20and%20APNGs/GIFs/A_BlobCat_Sip.gif" width="42" height="42" alt="cat" />
 <img src="https://raw.githubusercontent.com/DuckOfDisorder/BlobCats/main/GIFs%20and%20APNGs/GIFs/A_BlobCat_Bop.gif" width="42" height="42" alt="cat" />
 <img src="https://raw.githubusercontent.com/DuckOfDisorder/BlobCats/main/GIFs%20and%20APNGs/GIFs/A_BlobCat_Nom.gif" width="42" height="42" alt="cat" />
