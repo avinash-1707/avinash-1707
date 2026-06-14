@@ -44,4 +44,4 @@ infra     ▰▰▰▰▱▱▱▱  docker · git · vercel
 
 ### `$ ls ~/links`
 
-[`web`](https://avnsh.xyz) · [`linkedin`](https://linkedin.com/in/avinash-narwariya) · [`x`](https://x.com/ayyvinash) · [`mail`](mailto:avinashnarwariya5@gmail.com)
+[`portfolio`](https://avnsh.xyz) · [`linkedin`](https://linkedin.com/in/avinash-narwariya) · [`x`](https://x.com/ayyvinash) · [`mail`](mailto:avinashnarwariya5@gmail.com)
